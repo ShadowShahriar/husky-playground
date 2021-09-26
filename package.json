@@ -1,0 +1,26 @@
+{
+	"name": "husky-playground",
+	"version": "0.0.1",
+	"description": "Learning to use husky 🐶 woof!",
+	"main": "index.js",
+	"scripts": {
+		"whoa": "echo \"You look dashing! 😎\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ShadowShahriar/husky-playground.git"
+	},
+	"keywords": [
+		"husky",
+		"pre-push"
+	],
+	"author": "S. Shahriar <shadowshahriar.dev@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ShadowShahriar/husky-playground/issues"
+	},
+	"homepage": "https://github.com/ShadowShahriar/husky-playground#readme",
+	"devDependencies": {
+		"husky": "^7.0.2"
+	}
+}
